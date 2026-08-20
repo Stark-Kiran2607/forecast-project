@@ -1,0 +1,251 @@
+sku_id,sku_name,category,subcategory,list_price,unit_price,brand
+SKU00001,NutriPlus Cookware Large,Home & Kitchen,Cookware,813.41,619.77,NutriPlus
+SKU00002,CrispKing Bread Family Pack,Dairy & Bakery,Bread,70.38,49.57,CrispKing
+SKU00003,SoftTouch Notebooks 2L,Stationery & Office,Notebooks,151.28,83.67,SoftTouch
+SKU00004,SunriseFoods Eggs Large,Dairy & Bakery,Eggs,233.64,156.32,SunriseFoods
+SKU00005,SunriseFoods Pest Control Pack of 6,Home Care,Pest Control,138.5,83.46,SunriseFoods
+SKU00006,UrbanBite OTC Medicine 100g,Health & Wellness,OTC Medicine,1413.92,830.81,UrbanBite
+SKU00007,GreenValley Energy Drinks Pack of 12,Beverages,Energy Drinks,129.75,78.97,GreenValley
+SKU00008,CleanWave Frozen Vegetables 100g,Frozen Foods,Frozen Vegetables,492.11,358.31,CleanWave
+SKU00009,SmartBuy Frozen Vegetables Medium,Frozen Foods,Frozen Vegetables,251.86,178.03,SmartBuy
+SKU00010,SparkleClean Footwear 250ml,Apparel & Footwear,Footwear,1602.79,1096.65,SparkleClean
+SKU00011,PremiumSelect Writing Instruments 500g,Stationery & Office,Writing Instruments,123.36,83.12,PremiumSelect
+SKU00012,HomeStyle Vitamins & Supplements 1kg,Health & Wellness,Vitamins & Supplements,813.52,526.59,HomeStyle
+SKU00013,PrimeCare Hair Care Pack of 12,Personal Care,Hair Care,521.95,402.76,PrimeCare
+SKU00014,EliteHome Men's Grooming Medium,Personal Care,Men's Grooming,161.5,126.47,EliteHome
+SKU00015,EverydayPlus Dishwashing 2L,Home Care,Dishwashing,277.24,205.47,EverydayPlus
+SKU00016,PrimeCare Men's Wear 500g,Apparel & Footwear,Men's Wear,3478.65,2163.92,PrimeCare
+SKU00017,CleanWave Eggs Large,Dairy & Bakery,Eggs,280.39,218.27,CleanWave
+SKU00018,PurePlus Chips & Crisps Small,Snacks & Confectionery,Chips & Crisps,93.88,70.86,PurePlus
+SKU00019,PremiumSelect Hair Care 500ml,Personal Care,Hair Care,394.36,229.13,PremiumSelect
+SKU00020,SmartBuy Rice & Grains 2L,Grocery,Rice & Grains,109.5,69.58,SmartBuy
+SKU00021,DailyBest Tea Family Pack,Beverages,Tea,116.7,73.74,DailyBest
+SKU00022,PrimeCare Bottled Water 250ml,Beverages,Bottled Water,201.01,147.24,PrimeCare
+SKU00023,MetroBrand Footwear 100g,Apparel & Footwear,Footwear,2028.91,1381.64,MetroBrand
+SKU00024,HealthFirst Batteries 500g,Electronics & Accessories,Batteries,2711.05,1671.96,HealthFirst
+SKU00025,CityFresh Mobile Accessories Pack of 6,Electronics & Accessories,Mobile Accessories,2441.35,1483.61,CityFresh
+SKU00026,PrimeCare Laundry Family Pack,Home Care,Laundry,287.47,190.99,PrimeCare
+SKU00027,TrueTaste Mobile Accessories Small,Electronics & Accessories,Mobile Accessories,608.24,435.8,TrueTaste
+SKU00028,NatureBlend Bottled Water Pack of 6,Beverages,Bottled Water,94.45,63.96,NatureBlend
+SKU00029,BasicNeeds Cookware 2kg,Home & Kitchen,Cookware,1987.18,1222.63,BasicNeeds
+SKU00030,FreshFarm Frozen Meat 500ml,Frozen Foods,Frozen Meat,402.34,283.65,FreshFarm
+SKU00031,BasicNeeds Office Supplies 100g,Stationery & Office,Office Supplies,151.46,121.13,BasicNeeds
+SKU00032,PrimeCare Coffee 250ml,Beverages,Coffee,51.91,30.84,PrimeCare
+SKU00033,NovaFresh Air Fresheners Pack of 6,Home Care,Air Fresheners,164.5,112.21,NovaFresh
+SKU00034,TrueTaste Small Appliances Large,Electronics & Accessories,Small Appliances,2105.17,1355.55,TrueTaste
+SKU00035,PremiumSelect Air Fresheners Large,Home Care,Air Fresheners,215.32,130.18,PremiumSelect
+SKU00036,CleanWave Air Fresheners Medium,Home Care,Air Fresheners,188.79,145.16,CleanWave
+SKU00037,EverydayPlus Energy Drinks 100g,Beverages,Energy Drinks,109.86,86.73,EverydayPlus
+SKU00038,CleanWave Skin Care Medium,Personal Care,Skin Care,377.52,240.69,CleanWave
+SKU00039,GreenValley Candy 1kg,Snacks & Confectionery,Candy,124.83,79.49,GreenValley
+SKU00040,CityFresh Cheese Pack of 6,Dairy & Bakery,Cheese,206.7,118.43,CityFresh
+SKU00041,NovaFresh Small Appliances Family Pack,Electronics & Accessories,Small Appliances,2490.74,1754.57,NovaFresh
+SKU00042,ValueChoice OTC Medicine Large,Health & Wellness,OTC Medicine,1110.09,617.92,ValueChoice
+SKU00043,NovaFresh First Aid Pack of 6,Health & Wellness,First Aid,615.37,414.79,NovaFresh
+SKU00044,PureLife Skin Care 2kg,Personal Care,Skin Care,525.77,309.26,PureLife
+SKU00045,SmartBuy Writing Instruments 1L,Stationery & Office,Writing Instruments,352.71,253.27,SmartBuy
+SKU00046,QuickBite Bottled Water Pack of 12,Beverages,Bottled Water,154.0,120.46,QuickBite
+SKU00047,NutriPlus Men's Grooming 1L,Personal Care,Men's Grooming,289.44,165.62,NutriPlus
+SKU00048,BasicNeeds Energy Drinks 500ml,Beverages,Energy Drinks,111.68,83.14,BasicNeeds
+SKU00049,CityFresh Oral Care 500ml,Personal Care,Oral Care,584.25,442.65,CityFresh
+SKU00050,PremiumSelect Office Supplies 2L,Stationery & Office,Office Supplies,34.08,20.25,PremiumSelect
+SKU00051,CrispKing Oral Care 100g,Personal Care,Oral Care,336.75,262.89,CrispKing
+SKU00052,ValueChoice Storage & Containers Family Pack,Home & Kitchen,Storage & Containers,1372.15,967.68,ValueChoice
+SKU00053,BasicNeeds Pest Control 250g,Home Care,Pest Control,322.02,220.18,BasicNeeds
+SKU00054,FreshFarm Small Appliances Family Pack,Electronics & Accessories,Small Appliances,2079.97,1493.11,FreshFarm
+SKU00055,PureLife Surface Cleaners 100g,Home Care,Surface Cleaners,409.38,254.65,PureLife
+SKU00056,NovaFresh Butter & Ghee 1L,Dairy & Bakery,Butter & Ghee,79.8,44.4,NovaFresh
+SKU00057,FamilyChoice Kids Wear 500ml,Apparel & Footwear,Kids Wear,2287.08,1510.65,FamilyChoice
+SKU00058,NutriPlus Office Supplies 2L,Stationery & Office,Office Supplies,95.03,69.93,NutriPlus
+SKU00059,TrueTaste Butter & Ghee 500ml,Dairy & Bakery,Butter & Ghee,122.45,95.47,TrueTaste
+SKU00060,BasicNeeds Men's Wear Large,Apparel & Footwear,Men's Wear,724.16,476.15,BasicNeeds
+SKU00061,CrispKing Milk 100g,Dairy & Bakery,Milk,249.85,153.89,CrispKing
+SKU00062,EverydayPlus Mobile Accessories Family Pack,Electronics & Accessories,Mobile Accessories,499.45,291.09,EverydayPlus
+SKU00063,PremiumSelect Women's Wear Pack of 12,Apparel & Footwear,Women's Wear,1612.54,1264.03,PremiumSelect
+SKU00064,UrbanBite Air Fresheners Small,Home Care,Air Fresheners,214.86,130.58,UrbanBite
+SKU00065,BasicNeeds Small Appliances 500g,Electronics & Accessories,Small Appliances,964.12,749.86,BasicNeeds
+SKU00066,FreshFarm Cheese 100g,Dairy & Bakery,Cheese,222.25,132.45,FreshFarm
+SKU00067,EliteHome Spices & Seasoning 250ml,Grocery,Spices & Seasoning,492.46,273.09,EliteHome
+SKU00068,MetroBrand Tea 2kg,Beverages,Tea,266.94,161.78,MetroBrand
+SKU00069,PureLife Laundry Small,Home Care,Laundry,258.89,174.28,PureLife
+SKU00070,PremiumSelect Storage & Containers Large,Home & Kitchen,Storage & Containers,738.95,470.84,PremiumSelect
+SKU00071,CleanWave Juices 500ml,Beverages,Juices,273.19,212.25,CleanWave
+SKU00072,HomeStyle Pest Control Small,Home Care,Pest Control,327.25,224.58,HomeStyle
+SKU00073,PrimeCare Small Appliances 100g,Electronics & Accessories,Small Appliances,1216.02,704.61,PrimeCare
+SKU00074,NutriPlus Candy Small,Snacks & Confectionery,Candy,197.5,139.5,NutriPlus
+SKU00075,TrueTaste Batteries 250g,Electronics & Accessories,Batteries,3697.58,2393.21,TrueTaste
+SKU00076,TrueTaste Butter & Ghee Pack of 12,Dairy & Bakery,Butter & Ghee,306.25,220.42,TrueTaste
+SKU00077,CleanWave Women's Wear 250ml,Apparel & Footwear,Women's Wear,1562.82,1166.71,CleanWave
+SKU00078,NatureBlend Ready Meals 500ml,Frozen Foods,Ready Meals,820.53,653.46,NatureBlend
+SKU00079,DailyBest Frozen Vegetables 2kg,Frozen Foods,Frozen Vegetables,197.9,137.37,DailyBest
+SKU00080,GreenValley Biscuits & Cookies 500ml,Snacks & Confectionery,Biscuits & Cookies,85.23,54.69,GreenValley
+SKU00081,NovaFresh Laundry Large,Home Care,Laundry,115.69,76.17,NovaFresh
+SKU00082,SmartBuy Storage & Containers Medium,Home & Kitchen,Storage & Containers,480.16,312.42,SmartBuy
+SKU00083,HomeStyle Pulses & Lentils 250ml,Grocery,Pulses & Lentils,333.54,221.02,HomeStyle
+SKU00084,NutriPlus Men's Wear 2kg,Apparel & Footwear,Men's Wear,1308.64,729.59,NutriPlus
+SKU00085,BasicNeeds Dishwashing 1L,Home Care,Dishwashing,372.68,228.02,BasicNeeds
+SKU00086,HealthFirst Small Appliances Pack of 12,Electronics & Accessories,Small Appliances,2786.01,2220.28,HealthFirst
+SKU00087,NatureBlend First Aid 500g,Health & Wellness,First Aid,231.1,180.72,NatureBlend
+SKU00088,PurePlus Pest Control Pack of 12,Home Care,Pest Control,148.62,83.54,PurePlus
+SKU00089,PrimeCare Yogurt Family Pack,Dairy & Bakery,Yogurt,316.27,251.4,PrimeCare
+SKU00090,MetroBrand OTC Medicine Medium,Health & Wellness,OTC Medicine,618.63,462.73,MetroBrand
+SKU00091,PureLife Bottled Water 2L,Beverages,Bottled Water,223.64,123.16,PureLife
+SKU00092,NutriPlus OTC Medicine 2kg,Health & Wellness,OTC Medicine,809.88,630.38,NutriPlus
+SKU00093,ValueChoice Energy Drinks 2kg,Beverages,Energy Drinks,216.52,171.07,ValueChoice
+SKU00094,ZestyCo OTC Medicine Small,Health & Wellness,OTC Medicine,1069.07,756.04,ZestyCo
+SKU00095,GreenValley First Aid 500ml,Health & Wellness,First Aid,696.82,520.58,GreenValley
+SKU00096,PrimeCare Juices 250g,Beverages,Juices,210.25,133.12,PrimeCare
+SKU00097,GoldenHarvest Kids Wear Pack of 12,Apparel & Footwear,Kids Wear,1103.71,764.96,GoldenHarvest
+SKU00098,ValueChoice Men's Grooming 500g,Personal Care,Men's Grooming,306.0,224.26,ValueChoice
+SKU00099,HealthFirst Footwear Family Pack,Apparel & Footwear,Footwear,1671.99,1154.2,HealthFirst
+SKU00100,ValueChoice Flour & Atta 500ml,Grocery,Flour & Atta,465.53,291.49,ValueChoice
+SKU00101,EliteHome Chips & Crisps 250ml,Snacks & Confectionery,Chips & Crisps,122.57,87.31,EliteHome
+SKU00102,PurePlus Surface Cleaners 100g,Home Care,Surface Cleaners,111.77,84.9,PurePlus
+SKU00103,QuickBite Namkeen 500g,Snacks & Confectionery,Namkeen,179.7,136.39,QuickBite
+SKU00104,EverydayPlus Bread Family Pack,Dairy & Bakery,Bread,389.89,227.32,EverydayPlus
+SKU00105,GreenValley First Aid 2L,Health & Wellness,First Aid,503.0,332.66,GreenValley
+SKU00106,CrispKing Bottled Water Large,Beverages,Bottled Water,200.8,112.38,CrispKing
+SKU00107,HealthFirst Mobile Accessories Family Pack,Electronics & Accessories,Mobile Accessories,2511.78,1778.82,HealthFirst
+SKU00108,SmartBuy Juices 100g,Beverages,Juices,82.07,50.11,SmartBuy
+SKU00109,MetroBrand Namkeen 250ml,Snacks & Confectionery,Namkeen,102.67,80.35,MetroBrand
+SKU00110,CityFresh Vitamins & Supplements Medium,Health & Wellness,Vitamins & Supplements,286.87,202.12,CityFresh
+SKU00111,HomeStyle Footwear 1L,Apparel & Footwear,Footwear,2316.85,1506.31,HomeStyle
+SKU00112,FreshFarm Chips & Crisps 1L,Snacks & Confectionery,Chips & Crisps,218.89,160.42,FreshFarm
+SKU00113,SmartBuy Bread 2L,Dairy & Bakery,Bread,136.55,82.18,SmartBuy
+SKU00114,HomeStyle Writing Instruments Pack of 12,Stationery & Office,Writing Instruments,169.83,97.29,HomeStyle
+SKU00115,QuickBite Office Supplies Family Pack,Stationery & Office,Office Supplies,45.82,26.2,QuickBite
+SKU00116,CrispKing Ready Meals Large,Frozen Foods,Ready Meals,317.12,220.62,CrispKing
+SKU00117,ZestyCo Surface Cleaners Pack of 6,Home Care,Surface Cleaners,258.96,199.97,ZestyCo
+SKU00118,SunriseFoods Bath & Body 2L,Personal Care,Bath & Body,289.69,175.46,SunriseFoods
+SKU00119,CleanWave OTC Medicine 250ml,Health & Wellness,OTC Medicine,963.94,713.33,CleanWave
+SKU00120,FamilyChoice First Aid 250g,Health & Wellness,First Aid,492.32,275.41,FamilyChoice
+SKU00121,CityFresh Cheese Pack of 12,Dairy & Bakery,Cheese,195.28,124.65,CityFresh
+SKU00122,MetroBrand Cooking Oil 100g,Grocery,Cooking Oil,159.98,114.13,MetroBrand
+SKU00123,MetroBrand Juices Pack of 12,Beverages,Juices,99.13,75.0,MetroBrand
+SKU00124,PurePlus Writing Instruments 1L,Stationery & Office,Writing Instruments,345.68,271.63,PurePlus
+SKU00125,GoldenHarvest Air Fresheners Small,Home Care,Air Fresheners,477.75,338.32,GoldenHarvest
+SKU00126,PurePlus Dishwashing Family Pack,Home Care,Dishwashing,253.44,168.71,PurePlus
+SKU00127,PremiumSelect Dishwashing 2L,Home Care,Dishwashing,223.69,126.42,PremiumSelect
+SKU00128,CrispKing Footwear 2L,Apparel & Footwear,Footwear,741.97,459.21,CrispKing
+SKU00129,CleanWave Cooking Oil 1L,Grocery,Cooking Oil,217.18,169.57,CleanWave
+SKU00130,PremiumSelect Pulses & Lentils 250ml,Grocery,Pulses & Lentils,362.18,251.98,PremiumSelect
+SKU00131,SparkleClean Eggs 250g,Dairy & Bakery,Eggs,119.24,75.8,SparkleClean
+SKU00132,NutriPlus Air Fresheners 100g,Home Care,Air Fresheners,459.06,281.04,NutriPlus
+SKU00133,PurePlus Small Appliances Pack of 12,Electronics & Accessories,Small Appliances,1722.93,996.57,PurePlus
+SKU00134,ValueChoice Air Fresheners Large,Home Care,Air Fresheners,199.86,147.48,ValueChoice
+SKU00135,ValueChoice Pest Control 100g,Home Care,Pest Control,191.52,125.08,ValueChoice
+SKU00136,ZestyCo Writing Instruments 2kg,Stationery & Office,Writing Instruments,497.37,390.01,ZestyCo
+SKU00137,TrueTaste Juices Pack of 6,Beverages,Juices,145.43,96.51,TrueTaste
+SKU00138,SmartBuy Ready Meals Pack of 12,Frozen Foods,Ready Meals,668.4,504.37,SmartBuy
+SKU00139,GoldenHarvest Frozen Meat Small,Frozen Foods,Frozen Meat,790.82,460.7,GoldenHarvest
+SKU00140,ZestyCo Dishwashing Pack of 12,Home Care,Dishwashing,148.11,87.05,ZestyCo
+SKU00141,ZestyCo Footwear 250g,Apparel & Footwear,Footwear,2602.93,1609.4,ZestyCo
+SKU00142,PremiumSelect Yogurt 1kg,Dairy & Bakery,Yogurt,135.03,80.72,PremiumSelect
+SKU00143,DailyBest Writing Instruments 1L,Stationery & Office,Writing Instruments,64.0,50.83,DailyBest
+SKU00144,FamilyChoice Eggs 100g,Dairy & Bakery,Eggs,186.78,140.47,FamilyChoice
+SKU00145,HealthFirst Ready Meals 250ml,Frozen Foods,Ready Meals,478.26,304.7,HealthFirst
+SKU00146,SunriseFoods Ready Meals 250ml,Frozen Foods,Ready Meals,703.46,478.32,SunriseFoods
+SKU00147,EliteHome Cookware Family Pack,Home & Kitchen,Cookware,778.79,532.16,EliteHome
+SKU00148,FamilyChoice Air Fresheners 2kg,Home Care,Air Fresheners,357.28,250.74,FamilyChoice
+SKU00149,HealthFirst Cheese Family Pack,Dairy & Bakery,Cheese,149.69,86.21,HealthFirst
+SKU00150,FreshFarm Sugar & Salt Pack of 12,Grocery,Sugar & Salt,266.14,169.6,FreshFarm
+SKU00151,PurePlus Skin Care Pack of 12,Personal Care,Skin Care,201.86,115.36,PurePlus
+SKU00152,QuickBite Footwear Medium,Apparel & Footwear,Footwear,1830.31,1427.21,QuickBite
+SKU00153,UrbanBite Pulses & Lentils Medium,Grocery,Pulses & Lentils,184.25,119.92,UrbanBite
+SKU00154,DailyBest Storage & Containers 1kg,Home & Kitchen,Storage & Containers,2279.38,1667.95,DailyBest
+SKU00155,CityFresh Frozen Vegetables 500ml,Frozen Foods,Frozen Vegetables,585.78,457.03,CityFresh
+SKU00156,SunriseFoods Coffee 1L,Beverages,Coffee,164.3,103.08,SunriseFoods
+SKU00157,QuickBite Butter & Ghee Family Pack,Dairy & Bakery,Butter & Ghee,118.76,67.93,QuickBite
+SKU00158,CrispKing Ice Cream 100g,Frozen Foods,Ice Cream,487.98,309.41,CrispKing
+SKU00159,GreenValley Milk 1L,Dairy & Bakery,Milk,230.93,165.75,GreenValley
+SKU00160,PurePlus Bottled Water 1kg,Beverages,Bottled Water,202.06,136.38,PurePlus
+SKU00161,CleanWave OTC Medicine 1kg,Health & Wellness,OTC Medicine,501.77,285.38,CleanWave
+SKU00162,NovaFresh Small Appliances Small,Electronics & Accessories,Small Appliances,2780.26,1577.93,NovaFresh
+SKU00163,PrimeCare Juices 1kg,Beverages,Juices,151.67,109.94,PrimeCare
+SKU00164,ZestyCo Butter & Ghee Small,Dairy & Bakery,Butter & Ghee,113.99,83.68,ZestyCo
+SKU00165,MetroBrand Chocolates Family Pack,Snacks & Confectionery,Chocolates,85.81,49.54,MetroBrand
+SKU00166,EliteHome First Aid Small,Health & Wellness,First Aid,830.77,621.98,EliteHome
+SKU00167,ZestyCo Batteries 500g,Electronics & Accessories,Batteries,2596.95,1652.67,ZestyCo
+SKU00168,EverydayPlus Mobile Accessories 500g,Electronics & Accessories,Mobile Accessories,2234.32,1266.98,EverydayPlus
+SKU00169,DailyBest Office Supplies 500ml,Stationery & Office,Office Supplies,95.37,60.41,DailyBest
+SKU00170,ZestyCo Men's Wear 2L,Apparel & Footwear,Men's Wear,1241.29,909.39,ZestyCo
+SKU00171,CityFresh Cheese Small,Dairy & Bakery,Cheese,253.93,181.29,CityFresh
+SKU00172,CityFresh Energy Drinks 500ml,Beverages,Energy Drinks,112.18,75.2,CityFresh
+SKU00173,SunriseFoods OTC Medicine 500g,Health & Wellness,OTC Medicine,1096.68,679.85,SunriseFoods
+SKU00174,NatureBlend Storage & Containers Family Pack,Home & Kitchen,Storage & Containers,638.72,418.03,NatureBlend
+SKU00175,MetroBrand Office Supplies Large,Stationery & Office,Office Supplies,182.36,117.7,MetroBrand
+SKU00176,GreenValley Biscuits & Cookies Pack of 6,Snacks & Confectionery,Biscuits & Cookies,45.08,29.19,GreenValley
+SKU00177,FamilyChoice Chocolates Pack of 12,Snacks & Confectionery,Chocolates,114.65,77.09,FamilyChoice
+SKU00178,PrimeCare Pulses & Lentils Family Pack,Grocery,Pulses & Lentils,527.32,350.05,PrimeCare
+SKU00179,NutriPlus Juices 1L,Beverages,Juices,85.36,49.13,NutriPlus
+SKU00180,QuickBite Frozen Meat 500g,Frozen Foods,Frozen Meat,770.72,479.81,QuickBite
+SKU00181,ZestyCo Ice Cream Pack of 6,Frozen Foods,Ice Cream,314.95,183.39,ZestyCo
+SKU00182,TrueTaste Men's Grooming 500ml,Personal Care,Men's Grooming,178.74,125.21,TrueTaste
+SKU00183,MetroBrand Butter & Ghee Small,Dairy & Bakery,Butter & Ghee,252.07,165.28,MetroBrand
+SKU00184,CleanWave Footwear Small,Apparel & Footwear,Footwear,899.55,645.86,CleanWave
+SKU00185,FreshFarm Air Fresheners 1L,Home Care,Air Fresheners,484.73,277.22,FreshFarm
+SKU00186,TrueTaste Men's Wear 250ml,Apparel & Footwear,Men's Wear,1862.84,1185.19,TrueTaste
+SKU00187,GoldenHarvest Office Supplies 500ml,Stationery & Office,Office Supplies,252.44,150.22,GoldenHarvest
+SKU00188,GreenValley Bread Pack of 6,Dairy & Bakery,Bread,201.41,115.41,GreenValley
+SKU00189,FamilyChoice Biscuits & Cookies Pack of 6,Snacks & Confectionery,Biscuits & Cookies,69.3,51.51,FamilyChoice
+SKU00190,ZestyCo Writing Instruments 1L,Stationery & Office,Writing Instruments,145.42,84.74,ZestyCo
+SKU00191,QuickBite Vitamins & Supplements 1L,Health & Wellness,Vitamins & Supplements,590.87,350.82,QuickBite
+SKU00192,SparkleClean Bread Family Pack,Dairy & Bakery,Bread,165.78,106.38,SparkleClean
+SKU00193,PremiumSelect First Aid 1kg,Health & Wellness,First Aid,308.55,192.29,PremiumSelect
+SKU00194,NutriPlus Frozen Meat 500g,Frozen Foods,Frozen Meat,524.73,409.27,NutriPlus
+SKU00195,SparkleClean Cookware Small,Home & Kitchen,Cookware,1139.65,908.49,SparkleClean
+SKU00196,PremiumSelect Butter & Ghee Family Pack,Dairy & Bakery,Butter & Ghee,90.98,59.65,PremiumSelect
+SKU00197,NatureBlend Writing Instruments Pack of 6,Stationery & Office,Writing Instruments,330.62,198.47,NatureBlend
+SKU00198,PurePlus Writing Instruments 500ml,Stationery & Office,Writing Instruments,340.46,229.65,PurePlus
+SKU00199,TrueTaste Biscuits & Cookies 250ml,Snacks & Confectionery,Biscuits & Cookies,62.08,41.84,TrueTaste
+SKU00200,HomeStyle Tea 1L,Beverages,Tea,134.99,89.97,HomeStyle
+SKU00201,FamilyChoice Frozen Vegetables 100g,Frozen Foods,Frozen Vegetables,848.32,470.89,FamilyChoice
+SKU00202,PurePlus Flour & Atta 1L,Grocery,Flour & Atta,349.86,203.65,PurePlus
+SKU00203,GoldenHarvest Milk 2kg,Dairy & Bakery,Milk,181.68,106.33,GoldenHarvest
+SKU00204,HomeStyle Surface Cleaners 1kg,Home Care,Surface Cleaners,613.21,391.19,HomeStyle
+SKU00205,NutriPlus Office Supplies 2L,Stationery & Office,Office Supplies,222.89,154.95,NutriPlus
+SKU00206,NovaFresh Office Supplies Family Pack,Stationery & Office,Office Supplies,217.76,167.56,NovaFresh
+SKU00207,NovaFresh Coffee 1kg,Beverages,Coffee,97.45,59.04,NovaFresh
+SKU00208,MetroBrand Home Decor Large,Home & Kitchen,Home Decor,1162.94,863.83,MetroBrand
+SKU00209,CityFresh Soft Drinks 1L,Beverages,Soft Drinks,88.63,53.76,CityFresh
+SKU00210,MetroBrand Batteries Family Pack,Electronics & Accessories,Batteries,3556.85,1985.27,MetroBrand
+SKU00211,EverydayPlus Storage & Containers 250ml,Home & Kitchen,Storage & Containers,1189.16,847.23,EverydayPlus
+SKU00212,QuickBite Home Decor Family Pack,Home & Kitchen,Home Decor,348.98,210.66,QuickBite
+SKU00213,ValueChoice Chocolates Pack of 6,Snacks & Confectionery,Chocolates,115.76,90.28,ValueChoice
+SKU00214,SoftTouch Home Decor Pack of 12,Home & Kitchen,Home Decor,392.18,307.22,SoftTouch
+SKU00215,EliteHome Juices 2L,Beverages,Juices,102.03,58.8,EliteHome
+SKU00216,NovaFresh Frozen Vegetables 500ml,Frozen Foods,Frozen Vegetables,678.4,406.14,NovaFresh
+SKU00217,GoldenHarvest Laundry 1L,Home Care,Laundry,290.33,174.95,GoldenHarvest
+SKU00218,PureLife Bread Medium,Dairy & Bakery,Bread,229.94,178.86,PureLife
+SKU00219,CleanWave Flour & Atta Small,Grocery,Flour & Atta,141.0,80.3,CleanWave
+SKU00220,PurePlus Women's Wear 100g,Apparel & Footwear,Women's Wear,733.09,540.87,PurePlus
+SKU00221,GreenValley Bath & Body Pack of 12,Personal Care,Bath & Body,578.16,359.57,GreenValley
+SKU00222,PremiumSelect OTC Medicine Medium,Health & Wellness,OTC Medicine,492.26,342.42,PremiumSelect
+SKU00223,ZestyCo Hair Care Small,Personal Care,Hair Care,217.42,129.22,ZestyCo
+SKU00224,NovaFresh Hair Care 1L,Personal Care,Hair Care,161.86,121.66,NovaFresh
+SKU00225,SparkleClean Home Decor 250ml,Home & Kitchen,Home Decor,1233.58,885.33,SparkleClean
+SKU00226,MetroBrand Coffee Pack of 12,Beverages,Coffee,74.28,41.25,MetroBrand
+SKU00227,EverydayPlus Mobile Accessories Pack of 6,Electronics & Accessories,Mobile Accessories,2851.22,1737.2,EverydayPlus
+SKU00228,FamilyChoice Mobile Accessories 250ml,Electronics & Accessories,Mobile Accessories,2956.05,1970.47,FamilyChoice
+SKU00229,ZestyCo Oral Care 500ml,Personal Care,Oral Care,421.82,288.02,ZestyCo
+SKU00230,EliteHome Bread 250ml,Dairy & Bakery,Bread,116.56,88.21,EliteHome
+SKU00231,TrueTaste Rice & Grains 100g,Grocery,Rice & Grains,153.98,99.59,TrueTaste
+SKU00232,NutriPlus Office Supplies 100g,Stationery & Office,Office Supplies,96.13,75.15,NutriPlus
+SKU00233,CrispKing Writing Instruments 250g,Stationery & Office,Writing Instruments,120.84,72.32,CrispKing
+SKU00234,PureLife Biscuits & Cookies 500ml,Snacks & Confectionery,Biscuits & Cookies,100.0,76.44,PureLife
+SKU00235,TrueTaste Rice & Grains 1L,Grocery,Rice & Grains,159.72,123.95,TrueTaste
+SKU00236,GreenValley Energy Drinks 500ml,Beverages,Energy Drinks,104.24,73.66,GreenValley
+SKU00237,UrbanBite Pulses & Lentils Family Pack,Grocery,Pulses & Lentils,95.24,75.42,UrbanBite
+SKU00238,PureLife Footwear 1kg,Apparel & Footwear,Footwear,1766.09,1152.63,PureLife
+SKU00239,GreenValley Storage & Containers 250ml,Home & Kitchen,Storage & Containers,1079.74,782.62,GreenValley
+SKU00240,FamilyChoice Energy Drinks 1kg,Beverages,Energy Drinks,143.08,79.06,FamilyChoice
+SKU00241,GreenValley Mobile Accessories 2kg,Electronics & Accessories,Mobile Accessories,1710.6,1058.3,GreenValley
+SKU00242,CityFresh Chips & Crisps 2L,Snacks & Confectionery,Chips & Crisps,218.49,151.11,CityFresh
+SKU00243,PureLife Men's Grooming 2kg,Personal Care,Men's Grooming,483.9,372.11,PureLife
+SKU00244,EverydayPlus OTC Medicine 2kg,Health & Wellness,OTC Medicine,750.15,591.29,EverydayPlus
+SKU00245,FreshFarm Batteries Pack of 12,Electronics & Accessories,Batteries,4025.26,2796.99,FreshFarm
+SKU00246,CleanWave Cookware Medium,Home & Kitchen,Cookware,1021.22,780.18,CleanWave
+SKU00247,TrueTaste Sugar & Salt 1kg,Grocery,Sugar & Salt,240.33,180.2,TrueTaste
+SKU00248,TrueTaste Biscuits & Cookies 250g,Snacks & Confectionery,Biscuits & Cookies,56.31,41.86,TrueTaste
+SKU00249,CrispKing Yogurt 1kg,Dairy & Bakery,Yogurt,243.38,140.64,CrispKing
+SKU00250,ValueChoice Yogurt 2L,Dairy & Bakery,Yogurt,322.41,215.9,ValueChoice
